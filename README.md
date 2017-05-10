@@ -5,6 +5,11 @@ If you have purchased this script previously and need support please contact me 
 
 [Download the lates release from the releases page](https://github.com/markustenghamn/WHMCS-Slack/releases)
 
-# Config Setup
+## Config Setup
 
-https://www.youtube.com/watch?v=5b1R2eaW5-Q
+Get the token from your Slack integrations: 
+- In a web browser on your desktop, visit the Legacy Tokens page at https://api.slack.com/custom-integrations/legacy-tokens
+- Scroll to find the Team and User that you'd like to create a token for.
+- Click Create token.
+
+Config for WHMCS: https://www.youtube.com/watch?v=5b1R2eaW5-Q

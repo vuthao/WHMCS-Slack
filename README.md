@@ -4,3 +4,7 @@ This was originally sold by via Anveto but I have decided to make it free and op
 If you have purchased this script previously and need support please contact me for premium support. If you are using the free version of this script please open an issue.
 
 [Download the lates release from the releases page](https://github.com/markustenghamn/WHMCS-Slack/releases)
+
+# Config Setup
+
+https://www.youtube.com/watch?v=5b1R2eaW5-Q
